@@ -1,6 +1,6 @@
 ### REST API
 
+What is REST?
 REST stands for REpresentational State Transfer.
 It means when a RESTful API is called, the server will transfer to the client a representation of the state of the requested resource.
 
-![Uploading 1_6cjGAevnut9YuDmprV1Qmw.png…]()
