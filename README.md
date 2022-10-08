@@ -2,7 +2,7 @@
 
 What is REST?
 
-REST stands for REpresentational State Transfer.
+REST stands for Representational State Transfer.
 
 It means when a RESTful API is called, the server will transfer to the client a representation of the state of the requested resource.
 
